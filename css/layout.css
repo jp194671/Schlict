@@ -1,0 +1,64 @@
+h1 {
+font-size: 55px;
+text-align: center;
+text-color: black;
+}
+
+h2 {
+text-align:
+}
+
+.topbar{
+  background-color: #2d383c;
+   padding-top: 80px;
+}
+
+.home-color{
+background-color: #FE5A5A;
+}
+.bowling-color{
+background-color: #FE5A5A;
+}
+.shotput-color{
+background-color: #FE5A5A;
+}
+.discus-color{
+background-color: #FE5A5A;
+}
+header{
+  padding-top: 23px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 45px;
+}
+a {
+  display: block;
+  font-style: italic;
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+  a:active {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2d383c;
+  color: white;
+  text-align: center;
+}

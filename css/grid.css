@@ -1,0 +1,43 @@
+.dwbowling {
+  float: right;
+  width: 400px;
+  height: 250px;
+  
+}
+
+.dwtrack {
+float: left;
+width: 400px;
+height: 250px;
+}
+.grid-container {
+  display: grid;
+  grid-row-gap: 50px;
+  grid-template-columns: auto auto auto;
+
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.bowlinglane{
+  float: left;
+  width: 400px;
+  height: 250px;
+}
+
+.shotput{
+  float: right;
+  width: 400px;
+  height: 250px;
+}
+
+.discus{
+  float: right;
+  width: 400px;
+  height: 250px;
+}
