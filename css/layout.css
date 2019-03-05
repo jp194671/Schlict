@@ -1,32 +1,42 @@
-h1 {
-font-size: 55px;
-text-align: center;
-text-color: black;
-}
+
 
 h2 {
 text-align:
 }
 
+h1 {
+  font-size: 70px;
+  text-align: center;
+  text-color: black;
+}
+
 .topbar{
-  background-color: #2d383c;
-   padding-top: 80px;
+  background-color:#FE5A5A ;
+   padding-top: 0px;
+
 }
 
 .home-color{
-background-color: #FE5A5A;
+background-color:#2d383c;
 }
 .bowling-color{
-background-color: #FE5A5A;
+background-color:#2d383c;
 }
-.shotput-color{
-background-color: #FE5A5A;
+.track-color{
+background-color:#2d383c;
 }
-.discus-color{
-background-color: #FE5A5A;
+.football-color{
+background-color: #2d383c;
 }
+.wrestling-color{
+background-color: #2d383c;
+}
+.baseball-color{
+background-color:#2d383c ;
+}
+
 header{
-  padding-top: 23px;
+  padding-top: 33px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 45px;
@@ -52,13 +62,27 @@ a:visited {
   color: white;
 }
 
+marquee{
+  background-color: #2d383c;
+color: red;
+font-size: 40px;
+}
 
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #2d383c;
+  background-color: #FE5A5A;
   color: white;
   text-align: center;
 }
+
+ .experience{
+   font-size: 30px;
+   text-align: center;
+ }
+ .Education{
+   font-size: 30px;
+   text-align: center;
+ }

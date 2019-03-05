@@ -1,21 +1,9 @@
-.dwbowling {
-  float: right;
-  width: 400px;
-  height: 250px;
-  
-}
 
-.dwtrack {
-float: left;
-width: 400px;
-height: 250px;
-}
 .grid-container {
   display: grid;
   grid-row-gap: 50px;
   grid-template-columns: auto auto auto;
-
-  padding: 10px;
+  padding: 0px;
 }
 
 .grid-item {
@@ -24,20 +12,96 @@ height: 250px;
   text-align: center;
 }
 
+.dwbowling {
+  float: right;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.dwtrack {
+float: left;
+width: 400px;
+height: 250px;
+border-style: solid;
+border-color: #FE5A5A;
+}
+
 .bowlinglane{
   float: left;
   width: 400px;
   height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
 }
 
-.shotput{
+.track{
+  float: left;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.tracklanes{
+  float: left;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.football1{
   float: right;
   width: 400px;
   height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
 }
 
-.discus{
+.football2{
+  float: left;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.wrestling1{
   float: right;
   width: 400px;
   height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.wrestling2{
+  float: left;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+.baseball1{
+  float: right;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+
+.baseball2{
+  float:left;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
+}
+.strike{
+  float: center;
+  width: 400px;
+  height: 250px;
+  border-style: solid;
+  border-color: #FE5A5A;
 }
